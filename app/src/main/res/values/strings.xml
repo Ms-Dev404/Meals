@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UserList</string>
+    <string name="caption_signIn">Sign In</string>
+    <string name="details_signIn">Enter Your Details</string>
+
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+
+    <string name="caption_forgot_password">Forgot your password?</string>
+    <string name="message_signup">Do not have an Account?</string>
+    <string name="content_skip">Skip</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
